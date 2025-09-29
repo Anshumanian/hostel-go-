@@ -94,7 +94,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-200 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              © 2024 hostelGo. All rights reserved.
+              © 2024 hostelGo. All rights reserved.Crafted with care by Anshuman
             </p>
             <div className="mt-4 md:mt-0">
               <p className="text-gray-500 text-sm">
