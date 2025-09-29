@@ -166,13 +166,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch, searchTerm = '' }) => {
                 className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-indigo-600 hover:bg-gray-50 transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Features
-              </a>
-              <a
-                href="#steps"
-                className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-indigo-600 hover:bg-gray-50 transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
+              
                 How it Works
               </a>
               <div className="pt-2 border-t border-gray-200 mt-2">
