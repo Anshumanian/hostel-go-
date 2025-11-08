@@ -16,3 +16,4 @@ Hoatel go for hostel booking
 🧑‍💼 Admin Panel to manage hostels, rooms, and bookings
 
 📱 Responsive Design for mobile and desktop devices
+live preview:-https://hostel-go.netlify.app/
